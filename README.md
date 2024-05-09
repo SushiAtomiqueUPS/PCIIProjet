@@ -1,3 +1,7 @@
-Projet PCII :
+# Projet PCII :
 
-Cahier des charges/Document de conception : https://upsud-my.sharepoint.com/:w:/r/personal/paul-alexis_rodriguez_universite-paris-saclay_fr/_layouts/15/Doc.aspx?sourcedoc=%7Ba9bbbda8-9ced-4f43-a12c-cd1401d814d0%7D&action=edit&wdPid=81cbb82
+Ceci est le depôt git du projet de l'UE programmation concurrente et interface interactives réalisés en 3ème année de licence informatique.
+
+## Objectif :
+Le but de ce projet est de développer un jeu impliquant des entités indépendants et executés par des threads, en suivant la méthodologie de développement cascade/waterfall.
+Le rapport de ce projet est le fichier Rapport.pdf dans le depôt.
